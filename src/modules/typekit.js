@@ -65,7 +65,7 @@ goog.scope(function () {
             onReady(fonts);
           }
         }
-      }, 2000);
+      }, 10000);
     } else {
       onReady([]);
     }
