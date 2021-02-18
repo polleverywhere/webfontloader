@@ -1,6 +1,6 @@
 {
   "name": "webfontloader",
-  "version": "1.6.28",
+  "version": "1.6.29",
   "description": "Web Font Loader gives you added control when using linked fonts via @font-face.",
   "main": "webfontloader.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/typekit/webfontloader.git"
+    "url": "git://github.com/polleverywhere/webfontloader.git"
   },
   "keywords": [
     "web",
@@ -26,7 +26,9 @@
     "Ryan Carver <ryan@typekit.com>",
     "Jeremie Lenfant-engelmann <jeremiele@google.com>",
     "Sean McBride <sean@typekit.com>",
-    "Bram Stein <bram@typekit.com>"
+    "Bram Stein <bram@typekit.com>",
+    "Chris Amundson <christopher.b.amundson@gmail.com>",
+    "Steel Fu <steelfu@gmail.com>"
   ],
   "license": "Apache-2.0",
   "bugs": {
