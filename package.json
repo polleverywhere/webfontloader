@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/polleverywhere/webfontloader.git"
+    "url": "git+https://github.com/polleverywhere/webfontloader.git"
   },
   "keywords": [
     "web",
